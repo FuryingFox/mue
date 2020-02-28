@@ -1,0 +1,12 @@
+.settings-icon {
+  font-size: calc(10px + 1.2vmin);
+}
+
+.settings-icon:hover {
+  cursor: pointer;
+}
+
+.columns {
+  flex-direction: column;
+  display: flex;
+}
