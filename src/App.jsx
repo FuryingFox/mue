@@ -37,7 +37,6 @@ export default class App extends React.Component {
           <Clock /> 
           <Quote />
           <Credit />
-          <Gear className='settings-icon' onClick={this.openModal} />
           <Modal isOpen={this.state.modal}>
             <Settings />
           </Modal>
