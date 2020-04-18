@@ -9,7 +9,6 @@ import Credit from './components/Credit';
 import Navbar from './components/Navbar';
 import Settings from './components/Settings';
 import Modal from 'react-modal';
-import Gear from '@material-ui/icons/Settings';
 import './scss/index.scss'; 
 
 //* App
